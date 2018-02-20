@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xllogin>
+        <obj id="xl_qq">
+                <title>QQ</title>
+                <mobile_support>1</mobile_support>
+                <image_b></image_b>
+                <image_m><![CDATA[http://i.xunlei.com/connect/logo/qq36.png]]></image_m>
+                <image_s></image_s>
+                <image_ios></image_ios>
+                <url><![CDATA[http://login.i.xunlei.com/connect_login.php?connect=qq&redirect_url=http%3A%2F%2Fi.xunlei.com%2Fclient_login.html&version=2.0&from=xunlei9&login_id=0&register_id=xunlei9]]></url>
+                <redirect_key>redirect_url</redirect_key>
+                <redirect_url><![CDATA[http://i.xunlei.com/client_login.html]]></redirect_url>
+                <type>1</type>
+                <version>2</version>
+                <peerid>3</peerid>
+                <mobile>0</mobile>
+        </obj>
+
+        <obj id="xl_weixin">
+                <title>微信</title>
+                <mobile_support>1</mobile_support>
+                <image_b></image_b>
+                <image_m><![CDATA[http://i.xunlei.com/connect/logo/weixin36.png]]></image_m>
+                <image_s></image_s>
+                <image_ios></image_ios>
+                <url><![CDATA[http://login.i.xunlei.com/tl/weixin_pc?redirect=http%3A%2F%2Fi.xunlei.com%2Fclient_login.html&version=2.0&from=xunlei9&login_id=0&register_id=xunlei9]]></url>
+                <redirect_key>redirect_url</redirect_key>
+                <redirect_url><![CDATA[http://i.xunlei.com/client_login.html]]></redirect_url>
+                <type>1</type>
+                <version>2</version>
+                <peerid>3</peerid>
+                <mobile>0</mobile>
+        </obj>  
+
+        <obj id="xl_xiaomi">
+                <title>小米</title>
+                <mobile_support>1</mobile_support>
+                <image_b></image_b>
+                <image_m><![CDATA[http://i.xunlei.com/connect/logo/xm36.png]]></image_m>
+                <image_s></image_s>
+                <image_ios></image_ios>
+                <url><![CDATA[https://open-api-auth.xunlei.com/platform?m=BindOauth&redirect_uri=http%3A%2F%2Fi.xunlei.com%2Fclient_login.html&login_id=0&register_id=xunlei9]]></url>
+                <redirect_key>redirect_url</redirect_key>
+                <redirect_url><![CDATA[http://i.xunlei.com/client_login.html]]></redirect_url>
+                <type>1</type>
+                <version>2</version>
+                <peerid>3</peerid>
+                <mobile>0</mobile>
+        </obj> 
+
+        <obj id="xl_sina">
+                <title>新浪微博</title>
+                <mobile_support>1</mobile_support>
+                <image_b></image_b>
+                <image_m><![CDATA[http://i.xunlei.com/connect/logo/weibo36.png]]></image_m>
+                <image_s></image_s>
+                <image_ios></image_ios>
+                <url><![CDATA[http://login.i.xunlei.com/connect_login.php?connect=weibo&redirect_url=http%3A%2F%2Fi.xunlei.com%2Fclient_login.html&version=2.0&from=xunlei9&login_id=0&register_id=xunlei9]]></url>
+                <redirect_key>redirect_url</redirect_key>
+                <redirect_url><![CDATA[http://i.xunlei.com/client_login.html]]></redirect_url>
+                <type>1</type>
+                <version>2</version>
+                <peerid>3</peerid>
+                <mobile>0</mobile>
+        </obj>
+
+        <obj id="xl_zfb">
+                <title>支付宝</title>
+                <mobile_support>0</mobile_support>
+                <image_b></image_b>
+                <image_m><![CDATA[http://i.xunlei.com/connect/logo/zfb36.png]]></image_m>
+                <image_s></image_s>
+                <image_ios></image_ios>
+                <url><![CDATA[http://login.i.xunlei.com/connect_login.php?connect=zfb&redirect_url=http%3A%2F%2Fi.xunlei.com%2Fclient_login.html&version=2.0&from=xunlei9&login_id=0&register_id=xunlei9]]></url>
+                <redirect_key>redirect_url</redirect_key>
+                <redirect_url><![CDATA[http://i.xunlei.com/client_login.html]]></redirect_url>
+                <type>2</type>
+                <version>2</version>
+                <peerid>3</peerid>
+                <mobile>0</mobile>
+        </obj>
+        
+        <obj id="xl_renren">
+                <title>人人网</title>
+                <mobile_support>1</mobile_support>
+                <image_b></image_b>
+                <image_m><![CDATA[http://i.xunlei.com/connect/logo/renren36.png]]></image_m>
+                <image_s></image_s>
+                <image_ios></image_ios>
+                <url><![CDATA[http://login.i.xunlei.com/connect_login.php?connect=renren&redirect_url=http%3A%2F%2Fi.xunlei.com%2Fclient_login.html&version=2.0&from=xunlei9&login_id=0&register_id=xunlei9]]></url>
+                <redirect_key>cu</redirect_key>
+                <redirect_url><![CDATA[http://i.xunlei.com/client_login.html]]></redirect_url>
+                <type>3</type>
+                <version>2</version>
+                <peerid>3</peerid>
+                <mobile>0</mobile>
+        </obj>  
+
+        <obj id="xl_tianyi">
+                <title>天翼</title>
+                <mobile_support>0</mobile_support>
+                <image_b></image_b>
+                <image_m><![CDATA[http://i.xunlei.com/connect/logo/tianyi36.png]]></image_m>
+                <image_s></image_s>
+                <image_ios></image_ios>
+                <url><![CDATA[http://login.i.xunlei.com/thirdlogin3/tianyi.php?redirect=http%3A%2F%2Fi.xunlei.com%2Fclient_login.html&version=2.0&from=xunlei9&login_id=0&register_id=xunlei9]]></url>
+                <redirect_key>redirect_url</redirect_key>
+                <redirect_url><![CDATA[http://i.xunlei.com/client_login.html]]></redirect_url>
+                <type>2</type>
+                <version>2</version>
+                <peerid>3</peerid>
+                <mobile>0</mobile>
+        </obj>  
+        
+</xllogin>
